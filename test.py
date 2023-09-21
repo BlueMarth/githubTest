@@ -1,3 +1,14 @@
 # test
+import tkinter as tk
+from tkinter import ttk
 
-print('Hello')
+
+print('Running...')
+
+# setup
+window = tk.Tk()
+
+
+
+# run
+window.mainloop()
